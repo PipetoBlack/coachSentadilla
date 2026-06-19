@@ -1,0 +1,14 @@
+# Entorno virtual
+coachSentadilla
+
+# pesos
+*.task
+*.pt
+
+# cache
+__pycache__/
+
+.voice_cache
+
+*.png
+test.txt
